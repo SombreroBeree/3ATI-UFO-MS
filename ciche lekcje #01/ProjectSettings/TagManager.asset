@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: 'backround '
+    uniqueID: 41523869
+    locked: 0
+  - name: 'player '
+    uniqueID: 4092007845
+    locked: 0
+  - name: 'pickups '
+    uniqueID: 2148851499
+    locked: 0
